@@ -1,0 +1,61 @@
+BRL:
+  description: Brazilian Real
+  emergents:
+    - BRL=X
+    - ZAR=X
+    - ARS=X
+    - CLP=X
+    - COP=X
+    - PEN=X
+    - TRY=X
+    - MXN=X
+    - PLN=X
+    - HUF=X
+
+  commodities:
+    - BRL=X
+    - ZAR=X
+    - ARS=X
+    - CLP=X
+    - COP=X
+    - PEN=X
+    - AUD=X
+    - NZD=X
+
+MXN:
+  description: Mexican Peso
+  emergents:
+    - MXN=X
+    - BRL=X
+    - ZAR=X
+    - ARS=X
+    - CLP=X
+    - COP=X
+    - PEN=X
+    - TRY=X
+    - PLN=X
+    - HUF=X
+
+COP:
+  description: Colobian Peso
+  emergents:
+    - COP=X
+    - MXN=X
+    - BRL=X
+    - ZAR=X
+    - ARS=X
+    - CLP=X
+    - PEN=X
+    - TRY=X
+    - PLN=X
+    - HUF=X
+
+  commodities:
+    - COP=X
+    - BRL=X
+    - ZAR=X
+    - ARS=X
+    - CLP=X
+    - PEN=X
+    - AUD=X
+    - NZD=X
